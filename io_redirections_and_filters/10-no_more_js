@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *.js
+chmod +x delete_js_files.sh
